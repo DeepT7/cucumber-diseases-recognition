@@ -1,0 +1,1 @@
+In this project that I trained deep learning models to recognize cucumber diseaseses that have symptoms on the leaves and fruits. The models are buiding by using transfer learning technique based on MobileNet and EfficientNet architectures.
